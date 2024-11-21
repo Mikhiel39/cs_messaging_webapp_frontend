@@ -6,9 +6,9 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom";
 import axios from "axios";
 
-// axios.defaults.baseURL = "https://cs-mesaging-app.onrender.com";
+axios.defaults.baseURL = "https://cs-messaging-webapp-backend.onrender.com";
 // uncomment the below line & comment the above line - if you are running local server.
-axios.defaults.baseURL = "http://localhost:5000";
+// axios.defaults.baseURL = "http://localhost:5000";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
