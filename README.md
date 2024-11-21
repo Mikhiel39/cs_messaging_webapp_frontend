@@ -12,8 +12,8 @@ It's a real-time chat application for multiple agents who provide support to mul
 
 Both server & frontend App are hosted on:
 
-- client: [https://admirable-caramel-5b6f46.netlify.app](https://admirable-caramel-5b6f46.netlify.app)
-<!-- - server: [https://cs-mesaging-app.onrender.com](https://cs-mesaging-app.onrender.com) -->
+- client: [cs-messaging-webapp-frontend-hs9ikli9d.vercel.app](cs-messaging-webapp-frontend-hs9ikli9d.vercel.app)
+- server: [https://cs-messaging-webapp-backend.onrender.com](https://cs-messaging-webapp-backend.onrender.com)
 
 ### Running Locally
 
